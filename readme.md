@@ -1,5 +1,7 @@
 # Информационная база семинаров на Express + Reactjs/TypeScript
 
+![screenshot](/public/preview.png)
+
 ## Запуск проекта
 
 Клонируем репозиторий:
